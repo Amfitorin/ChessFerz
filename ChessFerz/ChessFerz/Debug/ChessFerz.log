@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  ChessFerz.cpp
+d:\jobs\c++\chessferz\chessferz\chessferz\chessferz.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+d:\jobs\c++\chessferz\chessferz\chessferz\chessferz.cpp(148): warning C4101: j: неиспользованная локальная переменная
+d:\jobs\c++\chessferz\chessferz\chessferz\chessferz.cpp(147): warning C4101: done: неиспользованная локальная переменная
+  ChessFerz.vcxproj -> D:\Jobs\C++\ChessFerz\ChessFerz\Debug\ChessFerz.exe
+  ChessFerz.vcxproj -> D:\Jobs\C++\ChessFerz\ChessFerz\Debug\ChessFerz.pdb (Full PDB)
